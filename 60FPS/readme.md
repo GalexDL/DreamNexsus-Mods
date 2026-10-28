@@ -1,4 +1,4 @@
-Name: 60 FPS
+# 60 FPS
 
 Author: Galex
 
